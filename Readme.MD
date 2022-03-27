@@ -8,7 +8,11 @@ makefile is the build tool
 
 AMRT stands for "أمرت" in arabic which means "I Commanded"
 and actually its letters stands for :
+
 أ : العاب (Games)
+
 م : محاكاة (Simulation)
+
 ر : روبوتات (Robotics)
+
 ت : تطبيقات (Apps)
