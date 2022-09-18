@@ -7,7 +7,7 @@ makefile is the build tool
 # why AMRT as a name 
 
 AMRT stands for "أمرت" in arabic which means "I Commanded"
-and actually its letters stands for :
+and actually its letters stand for :
 
 أ : العاب (Games)
 
